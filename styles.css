@@ -20,15 +20,15 @@ html{
 	background-attachment: fixed;
 }
 .pimg1{
-	background-image: url('./img/1.jpg');
+	background-image: url('./parallaxEffect/img/1.jpg');
 	height: 100%;
 }
 .pimg2{
-	background-image: url('./img/2.jpg');
+	background-image: url('./parallaxEffect/img/2.jpg');
 	height: 400px;
 }
 .pimg3{
-	background-image: url('./img/3.jpg');
+	background-image: url('./parallaxEffect/img/3.jpg');
 	height: 400px;
 }
 .section{
